@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("حط الاي دي حق الروم اللي يحصل بيها الاسبام هنا")
+let channel =     client.channels.get("672617019534999562")
 setInterval(function() {
-channel.send(`حط الكلام اللي تبغاه هنا`);
+channel.send(`مرحبا بيك عامل ايه كويس تمام يارب تكون بخير بدوم اهلا بيك في اي وقت`);
 }, 30)
 })
 
